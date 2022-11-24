@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning SFCC/CommerceB2C
 - 💞️ I’m looking to collaborate on... whatever the client needs
-- 📫 How to reach me: fviscuso@deloitte.it
+- 📫 How to reach me: 
+  - [My website!](https://fabioviscuso.it/)
+  - Send a mail to [fviscuso@deloitte.it](mailto:fviscuso@deloitte.it)
 
 <!---
 fviscuso-deloitte/fviscuso-deloitte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
